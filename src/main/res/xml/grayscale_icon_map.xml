@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@drawable/aide" package="com.aide.ui" name="AIDE" />
     <icon drawable="@drawable/austale" package="com.snightcoder.austale" name="AUSTALE" />
+    <icon drawable="@drawable/bgbrowser" package="com.bgbrowser.two" name="Bg Browser 2" />
     <icon drawable="@drawable/camera" package="com.android.camera2" name="Camera" />
     <icon drawable="@drawable/camera" package="org.codeaurora.snapcam" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera" />

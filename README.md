@@ -1,2 +1,2 @@
 # lawnicons
-LawmIcons but with more icons support.
+LawnIcons but with more icons support.

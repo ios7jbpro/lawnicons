@@ -11,6 +11,7 @@
     <icon drawable="@drawable/camera" package="com.sec.android.app.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.apps.cameralite" name="Camera" />
     <icon drawable="@drawable/camera" package="com.oneplus.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="org.codeaurora.snapcam" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.huawei.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.honor.camera" name="Camera" />
@@ -85,6 +86,7 @@
     <icon drawable="@drawable/sbrowser" package="com.sec.android.app.sbrowser" name="Samsung Internet Browser" />
     <icon drawable="@drawable/browser" package="org.lineageos.jelly" name="Browser" />
     <icon drawable="@drawable/plus_messenger" package="org.telegram.plus" name="Plus Messenger" />
+    <icon drawable="@drawable/phone" package="com.android.dialer" name="Phone" />
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
     <icon drawable="@drawable/brave_browser" package="com.brave.browser" name="Brave Browser" />
     <icon drawable="@drawable/globeone" package="ph.com.globe.globeonesuperapp" name="GlobeOne" />

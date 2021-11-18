@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@drawable/gfxtool" package="eu.tsoml.graphicssettings" name="GFX Tool" />
+    <icon drawable="@drawable/icstudio" package="com.nanosoft.icstudiofree" name="icStudio" />
+    <icon drawable="@drawable/music" package="dev.olog.msc" name="Canaree" />
+    <icon drawable="@drawable/torbrowser" package="org.torproject.torbrowser" name="Tor Browser" />
+    <icon drawable="@drawable/ios13iconpack" package="ru.pt.icon_pack.ios13" name="iOS 13 Icon Pack" />
+    <icon drawable="@drawable/apkeditor" package="com.gmail.heagoo.apkeditor.pro" name="APK Editor" />
+    <icon drawable="@drawable/ininal" package="com.ininal.wallet" name="ininal" />
+    <icon drawable="@drawable/clock" package="com.android.deskclock" name="Clock" />
+    <icon drawable="@drawable/sketchware" package="com.sketchware.tn" name="Sketchware Pro" />
+    <icon drawable="@drawable/vancedmanager" package="com.vanced.manager" name="Vanced Manager" />
+    <icon drawable="@drawable/owlgram" package="it.owlgram.android" name="OwlGram" />
+    <icon drawable="@drawable/genshinimpact" package="com.miHoYo.GenshinImpact" name="Genshin Impact" />
+    <icon drawable="@drawable/rootactivitylauncher" package="tk.zwander.rootactivitylauncher" name="Root Activity Launcher" />
     <icon drawable="@drawable/aide" package="com.aide.ui" name="AIDE" />
     <icon drawable="@drawable/austale" package="com.snightcoder.austale" name="AUSTALE" />
     <icon drawable="@drawable/bgbrowser" package="com.bgbrowser.two" name="Bg Browser 2" />
@@ -7,6 +20,7 @@
     <icon drawable="@drawable/camera" package="org.codeaurora.snapcam" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.mgc" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.MGC" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
     <icon drawable="@drawable/camera" package="com.sec.android.app.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.apps.cameralite" name="Camera" />
@@ -74,6 +88,7 @@
     <icon drawable="@drawable/dialer" package="com.android.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.truecaller" name="Phone" />
     <icon drawable="@drawable/messages" package="com.samsung.android.messaging" name="Messages" />
+    <icon drawable="@drawable/messages" package="com.android.messaging" name="Messages" />
     <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.oneplus.calculator" name="Calculator" />
@@ -95,6 +110,7 @@
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
     <icon drawable="@drawable/ebay_kleinanzeigen" package="com.ebay.kleinanzeigen" name="eBay Kleinanzeigen" />
     <icon drawable="@drawable/opera_gx" package="com.opera.gx" name="Opera GX" />
+    <icon drawable="@drawable/pixellab" package="com.imaginstudio.imagetools.pixellab" name="PixelLab" />
     <icon drawable="@drawable/gallery_go" package="com.google.android.apps.photosgo" name="Gallery Go" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro" />
     <icon drawable="@drawable/xda" package="com.xda.labs" name="XDA" />

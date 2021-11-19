@@ -14,13 +14,15 @@
     <icon drawable="@drawable/roblox" package="com.roblox.client" name="Roblox" />
     <icon drawable="@drawable/vectorasset" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/vancedmanager" package="com.vanced.manager" name="Vanced Manager" />
-    <icon drawable='@drawable/camera' name='Camera' package='com.oppo.camera' />
+    <icon drawable="@drawable/camera" name="Camera" package="com.oppo.camera" />
+    <icon drawable="@drawable/mgit" package="com.manichord.mgit" name="MGit" />
     <icon drawable="@drawable/owlgram" package="it.owlgram.android" name="OwlGram" />
     <icon drawable="@drawable/genshinimpact" package="com.miHoYo.GenshinImpact" name="Genshin Impact" />
     <icon drawable="@drawable/rootactivitylauncher" package="tk.zwander.rootactivitylauncher" name="Root Activity Launcher" />
     <icon drawable="@drawable/aide" package="com.aide.ui" name="AIDE" />
     <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe Sponsorblock" />
     <icon drawable="@drawable/minecraft" package="com.mojang.minecraftpe" name="Minecraft" />
+    <icon drawable="@drawable/whatsapp" package="com.yowhatsapp" name="YoWhatsApp" />
     <icon drawable='@drawable/files' name='Files' package='com.coloros.files' />
     <icon drawable='@drawable/spotify' name='Spotify' package='com.spotify.lite' />
     <icon drawable='@drawable/messenger' name='Messenger' package='com.facebook.mlite' />

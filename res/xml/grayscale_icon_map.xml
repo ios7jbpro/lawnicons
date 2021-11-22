@@ -6,14 +6,18 @@
     <icon drawable="@drawable/torbrowser" package="org.torproject.torbrowser" name="Tor Browser" />
     <icon drawable="@drawable/ios13iconpack" package="ru.pt.icon_pack.ios13" name="iOS 13 Icon Pack" />
     <icon drawable="@drawable/apkeditor" package="com.gmail.heagoo.apkeditor.pro" name="APK Editor" />
+    <icon drawable="@drawable/camera" package="com.motorola.cameraone" name="Camera" />
     <icon drawable="@drawable/ininal" package="com.ininal.wallet" name="ininal" />
     <icon drawable="@drawable/clock" package="com.android.deskclock" name="Clock" />
+    <icon drawable="@drawable/taptap" package="com.kieronquinn.app.taptap" name="Tap, Tap" />
     <icon drawable="@drawable/android" package="de.szalkowski.activitylauncher" name="Activity Launcher" />
+    <icon drawable="@drawable/android" package="com.ext.ui" name="Apk Extractor" />
     <icon drawable="@drawable/sketchware" package="com.sketchware.tn" name="Sketchware Pro" />
     <icon drawable="@drawable/toolbox" package="io.mrarm.mctoolbox" name="Toolbox" />
     <icon drawable="@drawable/roblox" package="com.roblox.client" name="Roblox" />
     <icon drawable="@drawable/vectorasset" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/vancedmanager" package="com.vanced.manager" name="Vanced Manager" />
+    <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG MOBILE" />
     <icon drawable="@drawable/camera" name="Camera" package="com.oppo.camera" />
     <icon drawable="@drawable/mgit" package="com.manichord.mgit" name="MGit" />
     <icon drawable="@drawable/owlgram" package="it.owlgram.android" name="OwlGram" />

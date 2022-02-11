@@ -1,4 +1,4 @@
-# lawnicons - a fork from Lawnchair
+# lawnicons by TeamFiles - a fork from Lawnchair
 LawnIcons but with more icons support.
 <img src="gitimages/photo1.png" alt="Photo1">
 Same as original, but has moee icons on it!

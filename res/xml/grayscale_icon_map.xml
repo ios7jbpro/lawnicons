@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@drawable/audiofx" package="com.lineageos.audiofx" />
+    <icon drawable="@drawable/inware" package="com.evo.inware" />
+    <icon drawable="@drawable/mi_filemanager" package="com.mi.android.globalFileexplorer" />
+    <icon drawable="@drawable/remote" package="com.duokan.phone.remotecontroller" />
     <icon drawable="@drawable/atomus" package="com.sunglab.atomus" />
     <icon drawable="@drawable/atlasvpn" package="com.atlasvpn.free.android.proxy.secure" />
     <icon drawable="@drawable/a12_clock" package="twelve.clock.mibrahim" />

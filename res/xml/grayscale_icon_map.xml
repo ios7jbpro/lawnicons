@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@drawable/inpost" package="pl.inpost.inmobile" />
+    <icon drawable="@drawable/mcdonalds" package="com.mcdonalds.mobileapp" />
+    <icon drawable="@drawable/mbank" package="cz.mbank" />
+    <icon drawable="@drawable/mbank" package="sk.mbank" />
+    <icon drawable="@drawable/mbank" package="pl.mbank" />
+    <icon drawable="@drawable/spark" package="com.adobe.spark.post" />
     <icon drawable="@drawable/audiofx" package="com.lineageos.audiofx" />
     <icon drawable="@drawable/inware" package="com.evo.inware" />
     <icon drawable="@drawable/mi_filemanager" package="com.mi.android.globalFileexplorer" />

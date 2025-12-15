@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@drawable/img2pdf" package="com.vidmar.pti" />
+    <icon drawable="@drawable/miband4" package="dev.rokitskiy.miband_watchface" />
+    <icon drawable="@drawable/miband6" package="dev.rokitskiy.miband6_watchface" />
+    <icon drawable="@drawable/miband5" package="dev.rokitskiy.miband5_watchface" />
+    <icon drawable="@drawable/sussybaka" package="com.innersloth.spacemafia" />
+    <icon drawable="@drawable/transfer_to_tv" package="com.yablio.sendfilestotv" />
+    <icon drawable="@drawable/yourphone" package="com.microsoft.appmanager" />
+    <icon drawable="@drawable/zoom" package="us.zoom.videomeetings" />
     <icon drawable="@drawable/inpost" package="pl.inpost.inmobile" />
     <icon drawable="@drawable/mcdonalds" package="com.mcdonalds.mobileapp" />
     <icon drawable="@drawable/mbank" package="cz.mbank" />
@@ -315,7 +323,6 @@
     <icon drawable="@drawable/themed_icon_lens" package="com.google.ar.lens" />
     <icon drawable="@drawable/themed_icon_lewdfi" package="eu.ctwoon.lewdfi" />
     <icon drawable="@drawable/themed_icon_linkedin" package="com.linkedin.android" />
-    b
     <icon drawable="@drawable/themed_icon_lsposed" package="org.lsposed.manager" />
     <icon drawable="@drawable/themed_icon_magisk" package="com.topjohnwu.magisk" />
     <icon drawable="@drawable/themed_icon_maps" package="com.google.android.apps.maps" />
